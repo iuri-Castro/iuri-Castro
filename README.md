@@ -14,9 +14,6 @@ Me chamo Iuri Dias de Castro, tenho 20 anos. Atualmente curso Análise e Desenvo
 
 <h3 align="left">Contato</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:iuridiascastro@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/iuri_dkastro/)
-
 
 <h3 align="left">My Stack ~</h3>
 
