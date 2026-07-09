@@ -12,8 +12,8 @@ Me chamo Iuri Dias de Castro, tenho 20 anos. Atualmente curso Análise e Desenvo
 
 <img align="right" alt="" height="190px" src="./src/Wake Up Samurai GIF by Cyberpunk 2077.gif">
 
-<h3 align="left">Contato</h3>
-
+<br>
+<br>
 
 <h3 align="left">My Stack ~</h3>
 
