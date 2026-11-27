@@ -85,7 +85,7 @@ Me chamo Iuri, busco me desenvolver na programação sempre explorando novas ide
   <br>
     <img height="170" src="https://streak-stats.demolab.com?user=iuri-Castro&theme=dark&background=000000" />
 </p>
-<img align="center" src="./src/Wake Up Samurai GIF by Cyberpunk 2077.gif" width="700px"  />
+<img align="center" src="./src/Wake Up Samurai GIF by Cyberpunk 2077.gif" width="900px"  />
 
 
 
