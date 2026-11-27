@@ -79,11 +79,13 @@ Me chamo Iuri, busco me desenvolver na programação sempre explorando novas ide
 
 ### GitHub Stats
 <p align="center">
-    <img alt="GitHub Stats" height="230"src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=iuri-Castro&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff"/>
-    <img height="220" src="https://github-readme-stats.vercel.app/api?username=iuri-Castro&show_icons=true&hide_rank=true&hide=stars,prs,issues&bg_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=fffff&custom_title=GitHub%20Statistics" />
+    <img alt="GitHub Stats" height="200"src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=iuri-Castro&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff"/>
+  <br>
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=iuri-Castro&show_icons=true&hide_rank=true&hide=stars,prs,issues&bg_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=fffff&custom_title=GitHub%20Statistics" />
+  <br>
     <img height="170" src="https://streak-stats.demolab.com?user=iuri-Castro&theme=dark&background=000000" />
 </p>
-<img align="center" src="./src/Wake Up Samurai GIF by Cyberpunk 2077.gif" width="500px"  />
+<img align="center" src="./src/Wake Up Samurai GIF by Cyberpunk 2077.gif" width="700px"  />
 
 
 
