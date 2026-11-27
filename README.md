@@ -10,7 +10,7 @@ Me chamo Iuri, busco me desenvolver na programação sempre explorando novas ide
  
 #
 
-<img align="right" alt="" height="190px" src="./src/Wake Up Samurai GIF by Cyberpunk 2077.gif">
+<img align="right" alt="" height="200px" src="./src/edgerunners.gif">
 
 <h3 align="left">Contato</h3>
 
@@ -76,28 +76,22 @@ Me chamo Iuri, busco me desenvolver na programação sempre explorando novas ide
 <br/>
 <br/>
 
-<h3 align="left">GitHub Stats</h3>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=iuri-Castro&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=iuri-Castro&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
-  />
-
+### GitHub Stats
+<p align="center">
+    <img alt="GitHub Stats" height="200"src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=iuri-Castro&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff"/>
+    <img height="170" src="https://streak-stats.demolab.com?user=iuri-Castro&theme=dark&background=000000" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=iuri-Castro&show_icons=true&hide_rank=true&hide=stars,prs,issues&bg_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=fffff&custom_title=GitHub%20Statistics" />
 </p>
+<img align="center" src="./src/Wake Up Samurai GIF by Cyberpunk 2077.gif" width="900px"  />
+
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iuri-Castro/iuri-Castro/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iuri-Castro/iuri-Castro/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iuri-Castro/iuri-Castro/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+
